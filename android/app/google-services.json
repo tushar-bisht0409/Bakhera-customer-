@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82820579410",
+    "project_id": "bakhera-fc5bb",
+    "storage_bucket": "bakhera-fc5bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82820579410:android:8f3f82a488c15ed7d41f8b",
+        "android_client_info": {
+          "package_name": "com.example.Service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82820579410-g5st1hkcpa9o92irilt5hflikneq6s6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlocRPOpvE83iChnp2MKjbgX5f_3790s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82820579410-g5st1hkcpa9o92irilt5hflikneq6s6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
